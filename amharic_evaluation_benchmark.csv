@@ -1,0 +1,4 @@
+Prompt_ID,Source_Prompt_EN,AI_Output_AM,Target_Model,Grammar_Score_1to5,Cultural_Score_1to5,Error_Type,Corrected_Amharic_Text,Notes
+001,Draft a formal business greeting.,ሰላም ወንድሜ እንደምን አለህ?,ChatGPT-4o,4,2,Tone Inconsistency,እኔ አክብሮቴን አቀርባለሁ፡ እንደምን ውለዋል?,Used informal pronouns (ወንድሜ/አለህ) for a formal business context.
+002,Summarize the benefits of renewable energy.,የታደሰ ኃይል ጥቅሞች ብዙ ናቸው::,Claude 3.5 Sonnet,5,5,None,የታደሰ ኃይል ጥቅሞች ብዙ ናቸው::,Accurate and natural Amharic phrasing.
+003,Explain the function of human red blood cells.,ቀይ የደም ሕዋሳት ኦክስጅንን ይሸከማሉ::,Gemini 1.5 Pro,4,4,Terminology Choice,ቀይ የደም ሕዋሳት ኦክስጅንን ወደ ሰውነት ክፍሎች ያጓጉዛሉ::,Minor terminology refinement for technical accuracy.
